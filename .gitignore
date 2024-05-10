@@ -1,6 +1,5 @@
 # editor
 .idea
-.vscode
 
 # dependencies
 **/node_modules
@@ -26,11 +25,9 @@
 .DS_Store
 
 ## env
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
-.env
 
 ## turbo
 .turbo
@@ -44,3 +41,7 @@
 
 ## compressed
 **/*.tgz
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
+config.bat
